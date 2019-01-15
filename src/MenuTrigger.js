@@ -38,7 +38,7 @@ MenuTrigger.propTypes = {
   disabled: PropTypes.bool,
   text: PropTypes.string,
   onPress: PropTypes.func,
-  onLongPress: PropTypes.func
+  onLongPress: PropTypes.func,
   customStyles: PropTypes.object,
   triggerOnLongPress: PropTypes.bool,
 };
